@@ -46,6 +46,7 @@ Open the index.html file in your browser.
 🔹 Live Preview
 
 If deployed on GitHub Pages or any hosting service, add the link here.
+https://udamy-clone-one.vercel.app/
 
 🔹 About
 
