@@ -43,11 +43,6 @@ git clone https://github.com/RamyaChitraa/udamy-clone.git
 
 Open the index.html file in your browser.
 
-🔹 Live Preview
-
-If deployed on GitHub Pages or any hosting service, add the link here.
-https://udamy-clone-one.vercel.app/
-
 🔹 About
 
 This project is for learning and practice purposes to enhance front-end skills, particularly layout, responsive design, and UI replication.
